@@ -1,1 +1,4 @@
 # ABCD-PDS-to-Tanner
+These scripts clean the questionnaire data of the Pubertal Development Scale for the ABCD study, either self-report (score youth pds) or parent-report (score parent pds). Scores are converted to Tanner stages using the methods described in Shirtcliff et al. (2009). The goal of this approach is to (1) take into account the varying timing of different elements of the pubertal process (e.g. skin changes vs menarche or facial hair), (2) create better comparability with other measures like the Tanner stage line drawings and physical examinations, and (3) allow a distinction between adrenal and gonadal components, as well as an overall Tanner stage.
+
+Shirtcliff, E. A., Dahl, R. E., & Pollak, S. D. (2009). Pubertal development: Correspondence between hormonal and physical development. Child Development, 80(2), 327–337. https://doi.org/10.1111/j.1467-8624.2009.01263.x
